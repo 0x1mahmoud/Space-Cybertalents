@@ -37,3 +37,19 @@ so i try to type login.php and i go it
 
 ![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img5.png)
 
+i try to brute force username and password and there's nothing
+but i tryied to type **username: auditor password: auditor**
+like this...
+![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img6.png)
+
+and i've logged in and i'm in auditor place we need to be admin
+so let's opne up burp suite to see the request and response when i logged in
+
+![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img7.png)
+
+## we see there a signature & session
+it's **hash length Attack**
+
+### go and download hash_extender
+
+![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img8.png)
