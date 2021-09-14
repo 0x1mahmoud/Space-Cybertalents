@@ -70,3 +70,8 @@ and aslo **cookies New string: 757365723d61756469746f7226726f6c653d61756469746f7
 **signature= e2467f09b8e23ffee8c16196222dc25995044589**
 
 ![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img10.png)
+
+
+
+after refreshing the page you'll be in the admin place view the source code you see the **flag**
+## Have fun, Enjoy, bye bye.....
