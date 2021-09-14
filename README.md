@@ -53,3 +53,20 @@ it's **hash length Attack**
 ### go and download hash_extender
 
 ![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img8.png)
+
+after you've installed it type this command
+`./hash_extender --data "user=auditor&role=auditor" --secret 38 --append admin --signature 9cdc8cbee716e38a1549f52a797fc4466e826097`
+
+you have to know this command what it means....
+
+![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img9.png)
+
+so i got a new **New signature: e2467f09b8e23ffee8c16196222dc25995044589**
+and aslo **cookies New string: 757365723d61756469746f7226726f6c653d61756469746f7280000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001f861646d696e**
+
+## i'll take them and put them in
+
+**Cookies= 757365723d61756469746f7226726f6c653d61756469746f7280000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001f861646d696e**
+**signature= e2467f09b8e23ffee8c16196222dc25995044589**
+
+![Image of mahmoudashraf1344](https://github.com/0x1mahmoud/Space-Cybertalents/blob/main/img/img10.png)
